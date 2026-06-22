@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ana Hidroponia | Alimentos Saudáveis</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">🌱 Ana Hidroponia</div>
+  <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#produtos">Produtos</a>
+      <a href="#vantagens">Vantagens</a>
+      <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section class="hero">
+    <h1>Alimentos frescos, saudáveis e sem agrotóxicos</h1>
+    <p>Cultivo hidropônico sustentável com qualidade superior.</p>
+    <a class="btn" href="#contato">Faça seu pedido</a>
+</section>
+
+<section id="sobre">
+    <h2>Quem Somos</h2>
+    <p>
+      Produzimos hortaliças e legumes em sistema hidropônico moderno,
+      utilizando água tratada e nutrientes balanceados, sem contato com o solo.
+    </p>
+</section>
+
+<section id="produtos">
+    <h2>Nossos Produtos</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Alface</h3>
+            <p>Folhas frescas e crocantes.</p>
+        </div>
+
+        <div class="card">
+            <h3>Tomate</h3>
+            <p>Cultivo controlado e alta qualidade.</p>
+        </div>
+
+        <div class="card">
+            <h3>Rúcula</h3>
+            <p>Ideal para alimentação saudável.</p>
+        </div>
+    </div>
+</section>
+
+<section id="vantagens">
+    <h2>Vantagens da Hidroponia</h2>
+
+    <div class="beneficios">
+        <div>💧 Economia de água</div>
+        <div>🌿 Sem agrotóxicos</div>
+        <div>♻ Produção sustentável</div>
+        <div>🥗 Mais qualidade nutricional</div>
+    </div>
+</section>
+
+<section id="contato">
+    <h2>Faça seu Pedido</h2>
+
+    <p>WhatsApp: (XX) XXXXX-XXXX</p>
+    <p>Email: contato@anahidroponia.com</p>
+
+    <a class="whatsapp"
+       href="https://wa.me/5511999999999">
+       Pedir pelo WhatsApp
+    </a>
+</section>
+
+<footer>
+  © 2026 Ana Hidroponia
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
